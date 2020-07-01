@@ -1,7 +1,8 @@
-package com.cursomaterialdesign
+package com.cursomaterialdesign.main
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.cursomaterialdesign.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
